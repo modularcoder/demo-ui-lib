@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "main": "./dist/ui-core/ui-core.js",
-  "module": "./dist/ui-core/ui-core.mjs",
+  "module": "./dist/ui-core/ui-core.js",
   "types": "./dist/ui-core/ui-core.d.ts",
   "scripts": {
     "dev": "vite",
